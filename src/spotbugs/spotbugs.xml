@@ -25,7 +25,7 @@
   <Match>
     <Bug pattern="CO_ABSTRACT_SELF"/>
   </Match>
-<!--
+
 <Match>
 <Bug pattern="ML_SYNC_ON_FIELD_TO_GUARD_CHANGING_THAT_FIELD"/>
 </Match>
@@ -1274,5 +1274,5 @@
 <Match>
 <Bug pattern="DMI_SCHEDULED_THREAD_POOL_EXECUTOR_WITH_ZERO_CORE_THREADS"/>
 </Match>
--->
+
 </FindBugsFilter>
